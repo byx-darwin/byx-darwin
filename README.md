@@ -112,7 +112,7 @@ Channel failover, cost governance, session management for 20+ LLM providers.
 
 <div align="center">
 
-🌐 **[Website](https://byx-darwin.github.io)** · 📝 **[Blog](https://byx-darwin.github.io)** · 📧 **[Email](mailto:18675866967@163.com)** · 🐙 **[GitHub](https://github.com/byx-darwin)**
+🌐 **[Website](https://byx-darwin.github.io)** · 📧 **[Email](mailto:18675866967@163.com)** · 🐙 **[GitHub](https://github.com/byx-darwin)**
 
 </div>
 
