@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yuexing Bao (包月兴)</h1>
+<h1 align="center">👋 Hi, I'm baoyx (皮哥不写PPT)</h1>
 
 <p align="center">
   <strong>Rust/Go Engineer</strong> · <strong>Technical Lead</strong> · <strong>AI Agent Developer</strong> · 15 YOE · Open source contributor
